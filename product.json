@@ -1,0 +1,10 @@
+{
+    "Products": [
+        {
+            "model": "A50",
+            "numberInstock": 10,
+            "price": 100,
+            "code": "20"
+        }
+    ]
+}
