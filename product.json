@@ -2,9 +2,15 @@
     "Products": [
         {
             "model": "A50",
-            "numberInstock": 10,
+            "numberInstock": 9,
             "price": 100,
             "code": "20"
+        },
+        {
+            "model": "a71",
+            "numberInstock": 14,
+            "price": 30,
+            "code": "23"
         }
     ]
 }

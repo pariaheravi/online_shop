@@ -1,11 +1,11 @@
 {
     "users": [
         {
-            "Name": "mohsen",
-            "PhoneNumber": "0919",
+            "Name": "paria",
+            "PhoneNumber": 902113,
             "Address": "tehran",
-            "Email": "gmail.com",
-            "Password": "c2MAArvKWdqsXrRwTe0JTKNxlRrjQCsWCQlJHXN3tm8DfCi7y8XO6qr7nP3bCENNC1WlLeUmaOlI/rVNbpwLsk0wPO2a24vlyVMH9E4="
+            "Email": "paria.heravi@gmail.com",
+            "Password": "agh77"
         }
     ]
 }
